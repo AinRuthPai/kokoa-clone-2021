@@ -1,3 +1,3 @@
-# Kokoa Clone 2021 Update
+# KakaoTalk clone coding
 
-HTML & CSS are so much fun!
+  - 카카오톡 클론 코딩입니다.
